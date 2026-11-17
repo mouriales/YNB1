@@ -1,0 +1,6 @@
+{
+  "name": "Yayasan Nata Bahari",
+  "description": "Marine conservation foundation portal featuring reef restoration, coastal mangrove programs, community action campaigns, latest news, interactive office map, and role-based CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
